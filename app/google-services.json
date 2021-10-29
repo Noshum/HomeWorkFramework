@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920342635486",
+    "project_id": "homeworkframeworks",
+    "storage_bucket": "homeworkframeworks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920342635486:android:d7b2febad6be8de51af34f",
+        "android_client_info": {
+          "package_name": "ua.shumov.homeworkframeworks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920342635486-n1969kqm2eda0ffee6d4ecs8qi37c49v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4a2BZMYsEQS6VvhdK97ieBLXG_2cV-Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920342635486-n1969kqm2eda0ffee6d4ecs8qi37c49v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
