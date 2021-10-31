@@ -1,4 +1,7 @@
 # HomeWorkFramework
-Block 9 - "3d-parties" / jetpack, lottie and firebase implementation
 
-![Image alt](https://github.com/Noshum/HomeWorkFramework/blob/dev/FrameworkScreen.png)
+Block 9 - "3d-parties" part 1  
+
+jetpack, lottie and firebase implementation
+
+
