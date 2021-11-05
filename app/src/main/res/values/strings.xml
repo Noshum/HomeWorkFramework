@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">HomeWorkFrameworks</string>
+    <string name="title_anim">Animation</string>
+    <string name="title_crash">Crashlytics</string>
+    <string name="title_notifications">Info</string>
+    <string name="crash">crash</string>
+    <string name="helloween"> Halloween, name applied to the evening of October 31,\n
+                              preceding the Christian feast of Hallowmas, Allhallows,\n
+                              or All Saints Day. The observances connected with \n
+                              Halloween are thought to have originated among the \n
+                              ancient Druids, who believed that on that evening, \n
+                              Saman, the lord of the dead, called forth hosts of \n
+                              evil spirits.The Druids customarily lit great fires \n
+                              on Halloween, apparently for the purpose of warding \n
+                            ff all these spirits. Among the ancient Celts, Halloween \n
+                            was the last evening of the year and was regarded as a \n
+                            propitious time for examining the portents of the future. \n
+                            The Celts also believed that the spirits of the dead revisited \n
+                            their earthly homes on that evening. After the Romans conquered\n
+                            Britain, they added to Halloween features of the Roman harvest \n
+                            festival held on November 1 in honor of Pomona, goddess of the\n
+                            fruits of trees.\n
+                            The Celtic tradition of lighting fires on Halloween survived \n
+                            until modern times in Scotland and Wales, and the concept of \n
+                            ghosts and witches is still common to all Halloween observances.\n
+                            Traces of the Roman harvest festival survive in the custom, prevalent \n
+                            in both the United States and Great Britain, of playing games involving \n
+                            fruit, such as ducking for apples in a tub of water. Of similar origin \n
+                            is the use of hollowed-out pumpkins carved to resemble grotesque faces\n
+                            and lit by candles placed inside.</string>
+
+
+</resources>
